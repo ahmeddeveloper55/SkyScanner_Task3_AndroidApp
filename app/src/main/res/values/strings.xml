@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SkyScanner_app</string>
+    <!-- Departure information card -->
+    <string name="Departure">Departure</string>
+    <string name="Departure_Three_Digit_Code">Departure Three Digit Code : APQ</string>
+    <string name="Departure_Time">Departure Time: 12:00 PM</string>
+
+    <!-- Flight information card -->
+    <string name="Flight_information_card">Flight information card</string>
+    <string name="Flight_number">Flight number : XX123</string>
+    <!-- Arrival Card -->
+    <string name="Arrival_Card">Arrival Card</string>
+    <string name="three_digit_airport_Code">three-digit airport code : LAX</string>
+    <string name="An_arrival_time">An arrival time: 12:00 PM</string>
+
+</resources>
